@@ -1,0 +1,95 @@
+{
+  "duser": [
+    {
+      "name": "rg",
+      "email": "qwe@gmail.com",
+      "gender": "male",
+      "age": 20,
+      "city": [
+        "Label1",
+        "Label2"
+      ],
+      "slider": 53,
+      "id": 25
+    },
+    {
+      "name": "hbnmm",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "age": 20,
+      "city": [
+        "Label1"
+      ],
+      "slider": 53,
+      "id": 26
+    },
+    {
+      "name": "jhkk",
+      "email": "khjk@gmail.com",
+      "gender": "female",
+      "age": 20,
+      "city": [
+        "Label1"
+      ],
+      "slider": 58,
+      "id": 27
+    },
+    {
+      "name": "hbnmm",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "age": 20,
+      "city": [
+        "Label1",
+        "Label2"
+      ],
+      "slider": 54,
+      "id": 28
+    },
+    {
+      "name": "mnm",
+      "email": "adsdddddmin@gmail.com",
+      "gender": "female",
+      "age": 20,
+      "city": [
+        "Label1",
+        "Label2"
+      ],
+      "slider": 53,
+      "id": 29
+    },
+    {
+      "name": "rg",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "age": 20,
+      "city": [
+        "Label2"
+      ],
+      "slider": 50,
+      "id": 30
+    },
+    {
+      "name": "qwe",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "age": 20,
+      "city": [
+        "Label1"
+      ],
+      "slider": 57,
+      "id": 31
+    },
+    {
+      "name": "hbnmm",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "age": 30,
+      "city": [
+        "Label1"
+      ],
+      "slider": 53,
+      "id": 32
+    }
+  ]
+}
